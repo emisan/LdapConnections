@@ -4,3 +4,6 @@ Builds a connection to a LDAP-Server via HTTP or HTTPS over TLS/SSL (but with no
 Project is documentated and written in GERMAN.
 
 An english version is not yet present.
+
+<u>Referenced libraries in the project build-path</u>
+<ul><li>BouncyCastle pKix 1.53, get it here: https://mvnrepository.com/artifact/org.bouncycastle/bcpkix-jdk15on/1.53</li></ul>
